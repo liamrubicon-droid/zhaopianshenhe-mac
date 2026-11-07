@@ -1,0 +1,7 @@
+.build/
+.swiftpm/
+icon.iconset/
+*.app/
+*.zip
+.DS_Store
+报名照片.jpg
