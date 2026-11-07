@@ -5,7 +5,7 @@ Windows 版「照片审核处理工具.exe」的 macOS 复刻，用 SwiftUI + �
 
 ## 快速获取（二选一）
 
-**方式 A · 下载即用**：从 Releases 下载 `照片审核-Mac通用版.zip`（同时支持 Intel 和
+**方式 A · 下载即用**：从 Releases 下载 `PhotoReview-macOS-1.0.0.zip`（同时支持 Intel 和
 Apple Silicon），解压后双击 `照片审核.app`。若系统提示“无法验证开发者”，右键点击 →「打开」即可。
 
 **方式 B · 一句话交给 AI 助手**（豆包 / DeepSeek / WorkBuddy / Claude Code 等任何能跑终端的 agent），
