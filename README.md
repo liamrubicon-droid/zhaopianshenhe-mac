@@ -48,6 +48,16 @@ git clone https://github.com/liamrubicon-droid/zhaopianshenhe-mac.git && cd zhao
 .build/release/PhotoReview 原照片.jpg [输出路径]
 ```
 
+## Claude Code Skill（可选）
+
+给 Claude Code 用户一个 `/photo-review` 命令。把 skill 装到个人目录即可：
+
+```bash
+mkdir -p ~/.claude/skills && cp -r skills/photo-review ~/.claude/skills/
+```
+
+之后在任何目录输入 `/photo-review 照片.jpg` 即可审核。
+
 ## 重新构建
 
 ```bash
